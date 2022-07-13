@@ -1,22 +1,22 @@
 {
-  "name": "Xray-heroku2",
-  "description": "Xray-heroku2",
+  "name": "hgfhj",
+  "description": "hgfhj",
   "keywords": [
     "VMess VLESS"
   ],
   "env": {
     "PROTOCOL": {
-      "description": "协议VMess或VLESS，请填小写的vmess或vless",
+      "description": "vmess",
       "value": "vmess",
       "required": true
     },
     "UUID": {
-      "description": "用户的主ID",
+      "description": "fdae1a97-0750-408f-969f-b40aa4a4432b",
       "value": "",
       "required": false
     },
     "WS_PATH": {
-      "description": "websocket路径",
+      "description": "/rdthyik",
       "value": "/ray",
       "required": true
     }
