@@ -6,7 +6,7 @@
   ],
   "env": {
     "PROTOCOL": {
-      "description": "vmess",
+      "description": "vless",
       "value": "vmess",
       "required": true
     },
